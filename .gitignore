@@ -1,0 +1,4 @@
+node_modules/*
+log.txt
+register.txt
+tor-exit.txt
